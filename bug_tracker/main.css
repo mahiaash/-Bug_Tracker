@@ -1,0 +1,39 @@
+body{
+    margin:0;
+}
+header{
+    background:cornflowerblue;
+    color:antiquewhite;
+    font-size: medium;
+    margin:0;
+    padding:20px;
+    text-align: left;
+}
+/* Start of Nav */
+.navigation ul{
+    margin:0;
+    padding: 0;
+    list-style: none;
+  
+}
+.navigation ul li{
+    color:antiquewhite;
+    font-size: px;
+    font-family:serif;
+    display:inline-block;
+    margin-right:10px;
+    
+}
+/* End of Nav */
+
+/* Beginning of Task_list */
+#Task_list{
+    background:darkgreen;
+}
+#Task_list h2{
+    text-align: center;
+    margin-top: 60px;
+}
+#Task_list ul{
+    text-align: center;
+}
